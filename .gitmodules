@@ -1,21 +1,28 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/Cashful-Co/cashful-docs
+	branch = dev
 [submodule "api"]
 	path = api
 	url = https://github.com/Cashful-Co/cashful-api
+	branch = dev
 [submodule "client-dashboard"]
 	path = client-dashboard
 	url = https://github.com/Cashful-Co/cashful-client-dashboard
+	branch = dev
 [submodule "internal-dashboard"]
 	path = internal-dashboard
 	url = https://github.com/Cashful-Co/cashful-internal-dashboard
+	branch = dev
 [submodule "bots"]
 	path = bots
 	url = https://github.com/Cashful-Co/cashful-bots
+	branch = dev
 [submodule "polestar"]
 	path = polestar
 	url = https://github.com/Cashful-Co/cashful-polestar
+	branch = dev
 [submodule "widget"]
 	path = widget
 	url = https://github.com/Cashful-Co/cashful-widget
+	branch = dev
